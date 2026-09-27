@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it using the metadata below."
+title: "JAPAN — JP-02 — Takaichi Political-Funding Network"
+type: report
+authors:
+  - family-names: "Tsukumo"
+    given-names: "Ninomae"
+version: "1.0"
+date-released: "2026-09-27"
+repository-code: "https://github.com/ninomaetsukumo/blackbird-takaichi-political-funding"
+url: "https://ninomaetsukumo.github.io/"
+keywords:
+  - OSINT
+  - Japan
+  - political finance
+  - political funding
+  - public records
+  - governance
+  - network analysis
+abstract: "A public-record OSINT case study of political donations, support organisations, business/public-sector intersections, vendor relationships, and evidentiary limits in Japan."
