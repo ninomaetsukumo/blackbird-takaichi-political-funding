@@ -7,8 +7,8 @@ Public, publication-reviewed OSINT case study by **Ninomae Tsukumo**.
 ## Permanent Archive
 
 **Version:** v1.0  
-**Archive:** Zenodo integration pending  
-**DOI:** To be added after Zenodo archives the GitHub release.
+**Archive:** Zenodo  
+**DOI:** [10.5281/zenodo.22990997](https://doi.org/10.5281/zenodo.22990997)
 
 ## Final reports / 最終レポート
 
