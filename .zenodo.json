@@ -1,0 +1,35 @@
+{
+  "title": "JAPAN — JP-02 — Takaichi Political-Funding Network",
+  "upload_type": "publication",
+  "publication_type": "report",
+  "description": "A public-record OSINT case study of political donations, support organisations, business/public-sector intersections, vendor relationships, and evidentiary limits in Japan. The report distinguishes verified facts, reported information, analytical judgments, hypotheses, negative findings, and unresolved questions. It does not determine criminal, civil, electoral, tax, regulatory, or ethical liability.",
+  "creators": [
+    {
+      "name": "Ninomae Tsukumo"
+    }
+  ],
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "OSINT",
+    "Japan",
+    "political finance",
+    "political funding",
+    "public records",
+    "governance",
+    "network analysis",
+    "corporate intelligence"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/ninomaetsukumo/blackbird-takaichi-political-funding",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://ninomaetsukumo.github.io/",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
