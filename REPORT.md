@@ -1,5 +1,7 @@
 # JAPAN — PROJECT BLACKBIRD
 
+**Permanent DOI:** [10.5281/zenodo.22990997](https://doi.org/10.5281/zenodo.22990997)
+
 # JP-02 — TAKAICHI POLITICAL-FUNDING NETWORK — PUBLIC EDITION
 
 **A Public-Record OSINT Case Study of Political Donations, Support Organisations, Business/Public-Sector Intersections, Vendor Relationships, and Evidentiary Limits in Japan**
