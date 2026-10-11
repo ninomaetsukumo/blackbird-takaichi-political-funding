@@ -1,5 +1,7 @@
 # JAPAN — Project Blackbird JP-02
 
+[Interactive evidence map / インタラクティブ関係図](https://ninomaetsukumo.github.io/reports/JAPAN-JP-02/EVIDENCE_NETWORK.html) — public-record relationship overview with evidence limitations.
+
 ## Takaichi Political-Funding Network / 高市早苗・政治資金ネットワーク
 
 Public, publication-reviewed OSINT case study by **Ninomae Tsukumo**.
